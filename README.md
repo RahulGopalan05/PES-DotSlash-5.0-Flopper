@@ -2,7 +2,7 @@
 
 ## Sign Language Transcriber with Emotion Recognition
 
-This project was developed during the PES DotSLash 5.0 Hackathon, a 24-hour coding competition. Our team created a two-way sign language transcriber capable of converting hand signs to text or speech, and vice versa. Additionally, we integrated emotion recognition to enhance the user experience.
+This project was developed during the PES DotSLash 5.0 Hackathon, a 24-hour coding competition. I created a two-way sign language transcriber capable of converting hand signs to text or speech, and vice versa. Additionally, we integrated emotion recognition to enhance the user experience.
 
 ## Features
 
@@ -22,6 +22,4 @@ This project was developed during the PES DotSLash 5.0 Hackathon, a 24-hour codi
 
 - Rahul Gopalan ([@RahulGopalan05](https://github.com/RahulGopalan05))
 
-## Acknowledgements
 
-We would like to thank PES University for organizing the DotSLash 5.0 Hackathon and providing us with the opportunity to develop this project.
